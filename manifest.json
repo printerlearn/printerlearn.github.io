@@ -1,0 +1,10 @@
+{
+    "name": "PrinterLearn",
+    "short_name": "PrinterLearn",
+    "description": "Canon printer setup and troubleshooting guides.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "lang": "en"
+}
